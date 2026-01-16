@@ -12,24 +12,36 @@
 ## 🛠️ Skills & Technologies
 
 ### 🤖 AI & ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-purple)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-orange)
-![Agentic AI](https://img.shields.io/badge/Agentic%20AI-blue)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+</p>
+
 
 ### 💻 Full-Stack & Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
-![REST API](https://img.shields.io/badge/REST%20API-lightgrey)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
 
 ### 🔐 Cybersecurity & Networking
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-darkred)
-![Network Security](https://img.shields.io/badge/Network%20Security-brown)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
+</p>
+
 
 ### ☁️ Cloud & Tools
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-black?logo=git)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</p>
+
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 
