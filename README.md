@@ -3,4 +3,5 @@
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/haardik-mago-637972157)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/HM1122/)
-[![Instagram](https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=Pink)](https://instagram.com/haardik_.04)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/haardik_.04/)
+
